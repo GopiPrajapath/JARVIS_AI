@@ -11,7 +11,7 @@ import openai
 
 logging.basicConfig(level=logging.INFO)
 
-openai.api_key = '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'
+openai.api_key = 'OPEN AI API KEY'
 
 
 class Commands(Enum):
